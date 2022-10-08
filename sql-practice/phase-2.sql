@@ -1,6 +1,8 @@
 PRAGMA foreign_keys=on; -- Turns foreign key support in SQLite3 on
 -- Your code here
 
+
+
 INSERT INTO owners
   (first_name, last_name)
 VALUES
